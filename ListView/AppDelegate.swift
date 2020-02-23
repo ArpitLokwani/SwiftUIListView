@@ -4,7 +4,7 @@
 //
 //  Created by Arpit Lokwani on 23/02/20.
 //  Copyright © 2020 Arpit Lokwani. All rights reserved.
-//   Swift UI
+//   Swift UI news
 
 import UIKit
 
